@@ -1,0 +1,5 @@
+flink-job/target/
+flink-job/.m2repo/
+producer/__pycache__/
+producer/.gocache/
+producer/.gomodcache/
